@@ -1,0 +1,4 @@
+com\customer\app\customerRepository\CustomerRepository.class
+com\customer\app\controller\CustomerController.class
+com\customer\app\bean\Customer.class
+com\customer\app\CustomerApplication.class
